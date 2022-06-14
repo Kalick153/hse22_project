@@ -29,9 +29,13 @@
 
 Всего получилось 5917 кластеров.
 1 Mycolicibacterium aichiense
+
 2 Mycolicibacterium anyangense
+
 3 Mycolicibacterium aurum
+
 4 Mycolicibacterium baixiangningiae
+
 5 Mycolicibacterium chitae
 
 
