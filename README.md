@@ -3,13 +3,14 @@
 
 https://colab.research.google.com/drive/14MYPGNzFmt7OA-ZKHyPPKJxNujhAcRcY?usp=sharing
 ### Таблица
+(вчера видимо не прожал коммит и остался шаблон таблицы из прошлого дз)
 | Название | Кол-во последовательностей | Общая длина последовательностей | Кол-во аннотированных генов | Их доля | Кол-во участков с ZH-score > 500 | Их длина | 
 | ------------- | ------------- | ------------- | ------------- |----------- | --------- | ------- |
-| Mycolicibacterium aichiense | Промотер | Все | 5724 | | | |
-| Mycolicibacterium anyangense | Энхансер | Чаще всего H3K4me1 | 5425 | | | |
-| Mycolicibacterium anyangense | Энхансер | Чаще всего H3K4me1 | 5425 | | | |
-| Mycolicibacterium baixiangningia | Энхансер | Чаще всего H3K4me1 | 5902 | | | |
-| Mycolicibacterium chitae | Энхансер | Все, но чаще всего H3K4me1 | 5229| | | | |
+| Mycolicibacterium aichiense | 22 777 | 5925491| 5724 |  92.2 % | 61781 | 607538 |
+| Mycolicibacterium anyangense | 21 897 | 5696763 | 5425 | 93.0 % | 51527 |  507518 |
+| Mycolicibacterium anyangense | 23 200 | 6035595 | 5425 | 93.2 % | 76717 | 763322|
+| Mycolicibacterium baixiangningia | 23 759 | 6181101 | 5902 | 92.0 %| 81152 | 807660 |
+| Mycolicibacterium chitae | 20 994 | 5461780 | 5229| 93.1 %| 77493 | 763678 | 
 
 
 ### Гистограммы
